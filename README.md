@@ -20,7 +20,7 @@
 #### 4) Nastavit si profil na soukromý: nelze vvidět koho uživatel sleduje, pouze sdílet informace které uživatel chce sdílet s dalšími uživateli.
 ### Neregistrovaní uživatelé
 #### 1) Schopnost shlédnou profil autora a klikat na jiné ožnosti jak kontaktovat daného autora.
-## SPRACOVANÁ DATA
+## SPRAVOVANÁ DATA
 #### Informace jako například co postuje daná osoba, dále s čím osoba interaguje a jak dlouho, bude sbíráno u autorů.
 #### Artlio bude u registrovaných uživatelů sbírat data jako například koho sledují, jak dlouho a jaký obsah (podle tagů #. Příklad #fantasy).
 #### U neregistrovaných uživatelů budou sbírany informace jako kdy navštívili stránku, na jak dlouho a jakého autora sledovali.
