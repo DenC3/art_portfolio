@@ -1,7 +1,7 @@
 # Artlio
 ##
 ## POPIS
-### Aplikace a webová stránka na sdílení vlastního uměleckého portfólia, odkazů na profily jiných stránek autora, a E-Mailové adresy (volitelné)
+#### Aplikace a webová stránka na sdílení vlastního uměleckého portfólia, odkazů na profily jiných stránek autora, a E-Mailové adresy (volitelné)
 ##
 ## CÍL SYSTÉMU A CÍLOVÁ SKUPINA
 #### Artlio má sloužit tvůrcům umění kteří tvoří díla jako například obrazy, nebo kresby. Digitální i na papíře.
